@@ -18,5 +18,4 @@ sections.forEach((section) => {
    li.classList.add('active');
    }
  })
-  
 })
